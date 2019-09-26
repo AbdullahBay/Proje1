@@ -1,3 +1,4 @@
-Hallo
+﻿Hallo
 
 Konuşma metni eklendi.
+konuşma düzenlendi.
