@@ -1,3 +1,5 @@
 Hallo
 
 Konuşma metni eklendi.
+
+mastera ekleme yaptık.
